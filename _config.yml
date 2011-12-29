@@ -1,0 +1,14 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://username.github.com
+title: サイトのタイトル
+author: username
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+# Google Analytics
+google_analytics_tracking_id: UA-XXXXXXXX-X
