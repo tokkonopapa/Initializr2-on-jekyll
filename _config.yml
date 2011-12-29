@@ -2,13 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://username.github.com
+url: http://tokkonopapa.github.com/Initializr2-by-jekyll/
 title: サイトのタイトル
-author: username
+author: tokkonopapa
 
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
 
 # Google Analytics
-google_analytics_tracking_id: UA-XXXXXXXX-X
+google_analytics_tracking_id: UA-20543951-2
