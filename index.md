@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "サンプル・ページ
+title: "サンプル・ページ"
 ---
 
 article header h1
